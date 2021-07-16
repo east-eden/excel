@@ -1,5 +1,5 @@
-Att：养成属性的成长率、固定值、初始默认值
-CostLoot：消耗表
+Att：所有战斗属性，属性的成长率、固定值、初始默认值等
+CostLoot：消耗表、掉落表
 Cry系列：晶石相关表
 Equip系列：装备相关表
 GlobalConfig：整体参数配置
@@ -11,8 +11,12 @@ Token：货币表
 Unit系列：怪物相关表
 Stage、Chapter、Condition：主线关卡表
 BuyStrengthen：购买体力
+Scene：场景表
+Skill系列：技能相关表
+Quest：任务表
+Collection系列：收集品表
 
 
-改表之前记得先获取最新，并锁定修改！避免冲突。下班之前上传解锁！
+改表之前记得先获取最新，并锁定修改！避免冲突。
 
 
